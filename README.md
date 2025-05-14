@@ -1,1 +1,1 @@
-# team-scenario2
+# team-scenario2 팀장
